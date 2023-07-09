@@ -1,4 +1,4 @@
-# master_blog_api
+# master_blog_api2
 
  Flask application that serves as a simple REST API for managing blog posts. Here's an overview of what the code does:
 
